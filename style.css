@@ -1,0 +1,14 @@
+header {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: blue;
+    font-size: 45;
+    text-align: center;
+}
+main, footer {
+    background-color: bisque;
+    font-size: 45;
+    text-align: center;
+}
+footer {
+    background-color: aquamarine;
+}
